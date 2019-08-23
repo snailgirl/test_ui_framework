@@ -1,0 +1,14 @@
+{
+'url':'http://127.0.0.1:8000/index',
+'user':'username',
+'pwd':'pwd',
+}
+---
+{
+'user':'username',
+'pwd':'pwd',
+}
+---
+{
+'url':'http://www.baidu.com',
+}
